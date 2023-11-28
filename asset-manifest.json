@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "https://sthgml.github.io/review-now/static/js/main.d5ca4203.js",
+    "main.js": "https://sthgml.github.io/review-now/static/js/main.e639e4bd.js",
     "static/media/heart.svg": "https://sthgml.github.io/review-now/static/media/heart.6964dc77eb6713d3a5913f212035bb04.svg",
     "static/media/icon-join.svg": "https://sthgml.github.io/review-now/static/media/icon-join.7d7b26176e1df3bc102c4bfdb787ab57.svg",
     "index.html": "https://sthgml.github.io/review-now/index.html",
     "static/media/icon-login.svg": "https://sthgml.github.io/review-now/static/media/icon-login.fd40fc83644dfcad8c386da608784c9e.svg",
     "static/media/icon-delete.svg": "https://sthgml.github.io/review-now/static/media/icon-delete.7fa887525c3f520fd86b6c03277c6aa0.svg",
     "static/media/icon-logout.svg": "https://sthgml.github.io/review-now/static/media/icon-logout.019f70dbcbf9bb17d10e866d1bf4e2e7.svg",
-    "main.d5ca4203.js.map": "https://sthgml.github.io/review-now/static/js/main.d5ca4203.js.map"
+    "main.e639e4bd.js.map": "https://sthgml.github.io/review-now/static/js/main.e639e4bd.js.map"
   },
   "entrypoints": [
-    "static/js/main.d5ca4203.js"
+    "static/js/main.e639e4bd.js"
   ]
 }
